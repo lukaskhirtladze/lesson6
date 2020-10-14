@@ -1,5 +1,6 @@
-.logo{float: left; margin-left: 95px}
+.logo{float: left; margin-left: 95px; width: 133px}
 .nav{margin-top: 50px}
 .ul{float: right;}
 .list{ float: right; margin-right: 49px}
 .ul::after{content:''; clear: both }
+.nav::after{content: ''; clear: both;}
