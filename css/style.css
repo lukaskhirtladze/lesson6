@@ -1,5 +1,5 @@
 .logo{float: left; margin-left: 95px}
 .nav{margin-top: 50px}
 .ul{float: right;}
-.list{display: inline-block; margin-right: 49px}
+.list{ float: right; margin-right: 49px}
 .ul::after{content:''; clear: both }
