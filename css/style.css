@@ -4,3 +4,4 @@
 .list{ float: right; margin-right: 49px}
 .ul::after{content:''; clear: both }
 .nav::after{content: ''; clear: both;}
+.header::after{content:'';clear: both; }
