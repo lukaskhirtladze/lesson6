@@ -2,6 +2,6 @@
 .nav{margin-top: 50px}
 .ul{float: right;}
 .list{ float: right; margin-right: 49px}
-.ul::after{content:''; clear: both }
-.nav::after{content: ''; clear: both;}
-.header::after{content:'';clear: both; }
+.ul::after{content:''; clear: both; display: block }
+.nav::after{content: ''; clear: both; display: block}
+.header::after{content:'';clear: both; display: block;}
